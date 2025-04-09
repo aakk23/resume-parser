@@ -1,3 +1,3 @@
-streamlit
-PyMuPDF
-pdfminer.six
+streamlit==1.32.2
+pdfminer.six==20221105
+PyMuPDF==1.23.22
