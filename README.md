@@ -15,8 +15,7 @@ A web-based resume parser built using Python and Streamlit. Upload a single PDF 
 
 ## 🚀 Demo
 
-> [Live App on Streamlit Cloud](https://your-app-name.streamlit.app)  
-(Replace with your real link after deployment)
+> [Live App on Streamlit Cloud](https://resume-parser-aakk.streamlit.app/)  
 
 ---
 
