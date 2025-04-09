@@ -1,0 +1,7 @@
+streamlit
+PyMuPDF
+pdfminer.six
+python-docx
+gspread
+oauth2client
+google-auth
